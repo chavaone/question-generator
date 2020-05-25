@@ -14,7 +14,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
 
-    name='questiongenerator',
+    name='question-generator',
     version='0.1.0',
     description='Python Random Question Generator',
     long_description=long_description,
@@ -28,7 +28,7 @@ setup(
         'Intended Audience :: Developers',
         'Intended Audience :: Education',
         'Topic :: Scientific/Engineering :: Mathematics',
-        'License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)',
+        'License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
